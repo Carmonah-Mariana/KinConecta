@@ -22,8 +22,8 @@ El proyecto nace de la problemática actual donde los viajeros encuentran experi
 ## 🚀 Funcionalidades Principales (MVP)
 
 - **Roles de Usuario:**
-  - **Turista:** Puede buscar destinos, filtrar intereses y contactar guías.
-  - **Guía:** Puede crear perfil verificado, publicar "Planes de Tour" y gestionar su disponibilidad.
+- **Turista:** Puede buscar destinos, filtrar intereses y contactar guías.
+- **Guía:** Puede crear perfil verificado, publicar "Planes de Tour" y gestionar su disponibilidad.
 - **Gestión de Planes:** Creación, edición y visualización de itinerarios turísticos.
 - **Buscador Inteligente:** Filtrado por Ciudad/Estado y categorías de interés.
 - **Seguridad:** Validación de usuarios y sistema de autenticación.
@@ -52,9 +52,6 @@ El modelo de datos relacional incluye las siguientes entidades principales:
 - `Tours` (Planes ofertados)
 - `Reviews` (Reseñas de experiencias)
 - `Messages` (Interacción)
-
-_(Puedes insertar aquí una imagen de tu Diagrama DER exportado de Workbench)_
-`![Diagrama ER](./assets/img/der_diagram.png)`
 
 ---
 
