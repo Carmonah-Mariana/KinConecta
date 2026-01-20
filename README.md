@@ -85,4 +85,4 @@ Este proyecto fue desarrollado por el equipo **Bugbusters** como parte del Proye
 
 
 ---
-⌨️ con ❤️ por el equipo **Bugbusters** 😊
+⌨️ con ❤️ por el equipo **Bugbusters** 😊.
