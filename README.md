@@ -75,13 +75,13 @@ Este proyecto fue desarrollado por el equipo **Bugbusters** como parte del Proye
 
 | Integrante | Rol Principal | GitHub |
 | :--- | :--- | :--- |
-| **Isaura Casas** | Backend / Data Engineer | [@user](https://github.com/isa-capa) |
+| **Isaura Casas** | Backend / Data Engineer | [@isa-capa](https://github.com/isa-capa) |
 | **Oscar Monroy** | / |[@user](https://github.com/) |
 | **Hageo Balam** | Backend / Data Engineer | [@Ajo-png](https://github.com/Ajo-png) |
 | **Gabriel Flores** |   | [@Gabriel-Onitsuaf](https://github.com/Gabriel-Onitsuaf) |
 | **Emmanuel Montiel** |  Fullstack | [@esaumonti-blip](https://github.com/esaumonti-blip) |
 | **José Evelio** | / | [@josesnowdev](https://github.com/josesnowdev) | 
-| **Mariana Carmona**    |FullStack JavaScript Dev/| [@Carmonah-Mariana](https://github.com/Carmonah-Mariana
+| **Mariana Carmona**    |FullStack JavaScript Dev/| [@Carmonah-Mariana](https://github.com/Carmonah-Mariana) |
 | **Andrea Meneses** |  / | [@AndreaMeneses13](https://github.com/AndreaMeneses13) |
 | **Juan Ariel Alarcón** | /  | [@JuanAG1003](https://github.com/JuanAG1003) |
 
